@@ -8,6 +8,7 @@ The goal of the dataset was to explore the ability for NLP models to classify se
 
 In other words, given the abstract of a RCT, what role does each sentence serve in the abstract?
 <img width="918" alt="68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7264626f75726b652f74656e736f72666c6f772d646565702d6c6561726e696e672f6d61696e2f696d616765732f30392d736b696d6c69742d6f766572766965772d696e7075742d616e642d6f75" src="https://user-images.githubusercontent.com/84591513/152385281-ce6d5338-523c-42f7-bc37-56eeb41ff950.png">
+
 **Problem in a sentence**
 The number of RCT papers released is continuing to increase, those without structured abstracts can be hard to read and in turn slow down researchers moving through the literature.
 
