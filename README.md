@@ -35,11 +35,3 @@ Find the most wrong predictions
 Making predictions on PubMed abstracts from the wild
 How you should approach this notebook
 You can read through the descriptions and the code (it should all run, except for the cells which error on purpose), but there's a better option.
-
-Write all of the code yourself.
-
-Yes. I'm serious. Create a new notebook, and rewrite each line by yourself. Investigate it, see if you can break it, why does it break?
-
-You don't have to write the text descriptions but writing the code yourself is a great way to get hands-on experience.
-
-Don't worry if you make mistakes, we all do. The way to get better and make less mistakes is to write more code.
