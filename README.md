@@ -1,3 +1,5 @@
+> PubMed_20k_RCT
+
 In this project, we're going to be putting what we've learned into practice.
 
 More specificially, we're going to be replicating the deep learning model behind the 2017 paper PubMed 200k RCT: https://arxiv.org/abs/1710.06071
