@@ -43,5 +43,3 @@ Yes. I'm serious. Create a new notebook, and rewrite each line by yourself. Inve
 You don't have to write the text descriptions but writing the code yourself is a great way to get hands-on experience.
 
 Don't worry if you make mistakes, we all do. The way to get better and make less mistakes is to write more code.
-
-**📖 Resource:** See the full set of course materials on GitHub: https://github.com/mrdbourke/tensorflow-deep-learning
